@@ -94,9 +94,8 @@ curl -X GET http://localhost:5000/incidents
 **cURL Example:**
 
 ```bash
-curl -X POST http://localhost:5000/incidents \
--H "Content-Type: application/json" \
--d '{"title":"New Incident","description":"Description of the incident","severity":"Medium"}'
+curl -X POST http://localhost:5000/incidents -H "Content-Type: application/json" -d "{\"title\":\"Incident1\",\"description\":\"Something happened\",\"severity\":\"High\"}"
+
 ```
 
 ---
