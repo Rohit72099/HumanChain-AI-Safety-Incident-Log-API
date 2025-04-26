@@ -9,8 +9,8 @@ A backend API service to log and manage hypothetical AI safety incidents, built 
 ### 1. Clone the repository
 
 ```bash
-https://github.com/your-username/humanchain-incident-log-api.git
-cd humanchain-incident-log-api
+git clone https://github.com/Rohit72099/HumanChain-AI-Safety-Incident-Log-API.git
+cd HumanChain-AI-Safety-Incident-Log-API
 ```
 
 ### 2. Install dependencies
