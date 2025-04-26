@@ -141,9 +141,9 @@ curl -X DELETE http://localhost:5000/incidents/<your-incident-id>
 
 ---
 
-Used Express + TypeScript for type safety and scalability.
-Used Mongoose for MongoDB object modeling.
-Separated concerns into models, controllers, and routes.
+- Used Express + TypeScript for type safety and scalability.
+- Used Mongoose for MongoDB object modeling.
+- Separated concerns into models, controllers, and routes.
 
 # Thank you!
 
