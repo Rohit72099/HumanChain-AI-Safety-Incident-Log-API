@@ -9,7 +9,7 @@ A backend API service to log and manage hypothetical AI safety incidents, built 
 ### From Zip File
 - 1. Unzip the folder
 - 2. Install dependencies -> npm install
-- 3.  Setup environment variables  ->  MONGODB_URI=mongodb://localhost:27017/humanchain_incidents
+- 3.  Setup environment variables  ->  MONGO_URI=mongodb://localhost:27017/humanchain_incidents
                                         PORT=5000
 
 - 4. Seed initial sample data ->  npm run seed
@@ -37,7 +37,7 @@ npm install
 Create a `.env` file in the root directory with the following:
 
 ```env
-MONGODB_URI=mongodb://localhost:27017/humanchain_incidents
+MONGO_URI=mongodb://localhost:27017/humanchain_incidents
 PORT=5000
 ```
 
