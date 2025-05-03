@@ -6,17 +6,6 @@ A backend API service to log and manage hypothetical AI safety incidents, built 
 
 ## 📚 Project Setup Instructions
 
-### From Zip File
-- 1. Unzip the folder
-- 2. Install dependencies -> npm install
-- 3.  Setup environment variables  ->  MONGO_URI=mongodb://localhost:27017/humanchain_incidents
-                                        PORT=5000
-
-- 4. Seed initial sample data ->  npm run seed
-
-- 5. Run the application locally -> npm run dev
-
-
  ## From github Repo
  
 ### 1. Clone the repository
